@@ -1,3 +1,4 @@
+pip install nltk
 import streamlit as st
 #import streamlit_extras
 from PIL import Image
