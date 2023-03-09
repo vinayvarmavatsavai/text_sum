@@ -6,9 +6,9 @@ from PIL import Image
 #from nltk.corpus import stopwords
 #from nltk.tokenize import word_tokenize, sent_tokenize
 #from C2 import nltk_summarizer
-from sumy.parsers.plaintext import PlaintextParser
-from sumy.nlp.tokenizers import Tokenizer
-from sumy.summarizers.lex_rank import LexRankSummarizer
+#from sumy.parsers.plaintext import PlaintextParser
+#from sumy.nlp.tokenizers import Tokenizer
+#from sumy.summarizers.lex_rank import LexRankSummarizer
 from C3 import text_rank
 
 st. set_page_config(layout="wide") 
