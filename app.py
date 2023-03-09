@@ -5,7 +5,7 @@ from PIL import Image
 #import nltk
 #from nltk.corpus import stopwords
 #from nltk.tokenize import word_tokenize, sent_tokenize
-from C2 import nltk_summarizer
+#from C2 import nltk_summarizer
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
