@@ -1,6 +1,6 @@
 streamlit==1.0.0
 
-PIL==9.4.0
+PIL==9.0.0
 transformers==4.26.1
 nltk
 stopwords==1.0.0
