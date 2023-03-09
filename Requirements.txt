@@ -1,0 +1,9 @@
+streamlit
+streamlit_extras
+PIL
+transformers
+nltk
+stopwords
+nltk.tokenize
+nltk.corpus
+
