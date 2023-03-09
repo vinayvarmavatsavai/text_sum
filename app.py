@@ -3,7 +3,6 @@ import streamlit as st
 from PIL import Image
 #from transformers import pipeline
 import nltk
-nltk.download(popular)
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 from C2 import nltk_summarizer
